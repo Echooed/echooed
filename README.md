@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Akindele</h1>
 <h3 align="center">I am passionate about building an efficient data pipeline</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echooed&label=Profile%20views&color=0e75b6&style=flat" alt="echooed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echooed" alt="echooed" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mikoloakindele" target="blank"><img src="https://img.shields.io/twitter/follow/mikoloakindele?logo=twitter&style=for-the-badge" alt="mikoloakindele" /></a> </p>
-
 - 🌱 I’m currently learning **Airflow, Data orchestration, Spark**
 
 - 💬 Ask me about **Python for data engineering, SQL for databases**
