@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python for data engineering, SQL for databases**
 
-- 📫 How to reach me **iakindelemichael@gmail.com**
+- 📫 Reach me here **iakindelemichael@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
