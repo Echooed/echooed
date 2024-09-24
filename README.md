@@ -3,7 +3,7 @@
 
 - 🌱 **Airflow, Data orchestration, Spark, DBT...**
 
-- 💬 Ask me about **Python for data engineering, SQL for databases**
+- 💬 Ask me about **How efficient data infrastructure can help your enterprise**
 
 - 📫 Reach me here **iakindelemichael@gmail.com**
 
