@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Michael Akindele</h1>
-<h3 I am passionate about building an efficient data pipeline</h3>
+<h3 I am passionate about building an efficient data and analytical solutions for businesses</h3>
 
-- 🌱 I’m currently learning **Airflow, Data orchestration, Spark**
+- 🌱 **Airflow, Data orchestration, Spark, DBT...**
 
 - 💬 Ask me about **Python for data engineering, SQL for databases**
 
