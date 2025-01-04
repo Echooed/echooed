@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Michael Akindele</h1>
 <h3 I am passionate about building an efficient data and analytical solutions for businesses</h3>
 
-- ❄️ **Airflow, Data orchestration, Spark, DBT...**
+ ❄️ **Airflow, Data orchestration, Spark, DBT...**
 
-- 💬 Ask me about **how efficient data infrastructure can help your enterprise**
+ 💬 Ask me about **how efficient data infrastructure can help your enterprise**
 
-- 📫 Reach me 👉 **iakindelemichael@gmail.com**
+ 📫 Reach me 👉 **iakindelemichael@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
