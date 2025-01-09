@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Michael Akindele</h1>
 <h3 I am passionate about building an efficient data and analytical solutions for businesses</h3>
 
- ❄️ **Airflow, Data orchestration, Spark, DBT...**
+ ❄️ **Airflow, Spark, DBT...**
 
  💬 Ask me about **how efficient data infrastructure can help your enterprise**
 
